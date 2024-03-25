@@ -13,7 +13,7 @@ Knihovny, ktere jsou použity v kódu jsou uložene v souboru `requirements.txt`
 
 ```
 pip3 --version                                # oveření verze manažeru
-pip3 install -r requirements.txt              # naistalování knihoven
+pip3 install -r requirements.txt              # nainstalování knihoven
 ```
 
 # Spuštení projektu
